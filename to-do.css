@@ -32,11 +32,11 @@ input{
 .wrapper-header{
     width: 100%;
     background-color: #f1c40f;
-    height: 50px;    
+    height: 60px;    
 }
 
 .wrapper-header h3{
-    color: #fff;
+    color: #000;
     height: 50px;
     padding-top: 5px;
     margin: 0;
